@@ -1,0 +1,178 @@
+nav{
+    width: 100%;
+     height: 80%;
+   background-color: rgb(192, 73, 73);
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   }
+   nav h2{
+
+     font-family: 'Montserrat', sans-serif;
+   }
+   .bigpicture{
+   width: 100%;
+   height: 600px;
+   background-image: url("/assets/beach.jpeg");
+   background-size: cover;
+   background-position: center;
+   margin-left:0;
+   margin-top: 0;
+   }
+   .recent{
+   margin-top: -35px;
+   margin-left: 20%;
+   margin-bottom: 10px;
+   font-family: 'Nunito', sans-serif;
+   }
+   .Popular{
+     margin-top: -32px;
+     margin-left: 30%;
+     margin-bottom: 10px;
+     font-family: 'Nunito', sans-serif;
+   }
+   
+     .Label{
+       margin-top: -32px;
+       margin-left: 40%;
+       margin-bottom: 10px;
+       font-family: 'Nunito', sans-serif;
+       }
+   
+       .Playlists{
+         margin-top: -35px;
+         margin-left: 50%;
+         margin-bottom: 10px;
+         font-family: 'Nunito', sans-serif;
+         font-weight: bold;
+         }
+   .overlay{
+   width: 100%;
+   height: 600px;
+   background-color: rgb(0, 0, 0,0.8);
+   
+   }
+    .img2{
+        height: 50px;
+        width: 50px;
+        }
+.image{
+width: 35%;
+background-color: rgb(192, 73, 73);
+float: left;
+height: 500px;
+}
+.music{
+    width: 65%;
+    background-color: rgb(192, 73, 73);
+    float: left;
+    height: 500px;
+}
+.bigpicture{
+    width: 70%;
+    height: 70%;
+    background-image: url("/assets/Think\ About\ You.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin-left:15%;
+    margin-top: 10%;
+    box-shadow: 10px 13px 5px -5px rgba(0,0,0,0.43);
+-webkit-box-shadow: 10px 13px 5px -5px rgba(0,0,0,0.43);
+-moz-box-shadow: 10px 13px 5px -5px rgba(0,0,0,0.43);
+    }
+    .col{
+background-color: rgb(192, 73, 73);
+    }
+.music p{
+font-weight: bold;
+}
+.line{
+width: 100%;
+height:3px;
+background-color: rgb(105, 26, 26,0.5);
+}
+.line2{
+  width: 100%;
+  height:3px;
+  background-color: rgb(105, 26, 26,0.5);
+  }
+  .line3{
+    width: 100%;
+    height:3px;
+    background-color: rgb(105, 26, 26,0.5);
+    }
+    .line4{
+      width: 100%;
+      height:3px;
+      background-color: rgb(105, 26, 26,0.5);
+      }
+      .line5{
+        width: 100%;
+        height:3px;
+        background-color: rgb(105, 26, 26,0.5);
+        }
+        .line6{
+          width: 100%;
+          height:3px;
+          background-color: rgb(105, 26, 26,0.5);
+          }
+          .line7{
+            width: 100%;
+            height:3px;
+            background-color: rgb(105, 26, 26,0.5);
+            }
+body{
+  background-color: rgb(192, 73, 73);
+}
+.linemy{
+  width: 25%;
+  height:3px;
+  background-color: rgb(105, 26, 26,0.5);
+
+  }
+footer{
+width: 100%;
+margin-top: 20%;
+
+}
+.lines{
+width: 90%;
+height: 50px;
+margin-top: 100px;
+
+}
+.pint{
+width: 100%;
+height: 3px;
+background-color: lightgray;
+
+}
+.fill{
+width: 50%;
+height: 5px;
+background-color:rgb(105, 26, 26);
+
+}
+.marker{
+width: 25px;
+height: 25px;
+background-color: rgb(105, 26, 26);
+border-radius: 40px;
+margin: 0 auto;
+margin-top: -15px;
+
+
+}
+.linecover{
+  width: 100%;
+  height:3px;
+  background-color: rgb(105, 26, 26,0.2);
+  }
+.lasticon{
+margin-left: 40%;
+margin-top: -150px;
+}
+.inv-link{
+  text-decoration: none;
+  color: #3b3737;
+  }
